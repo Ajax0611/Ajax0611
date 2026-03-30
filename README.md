@@ -1,90 +1,105 @@
-<h1 align="center">Hi 👋, I'm Ajay</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;Agentic+AI+Builder;Automation+Enthusiast;Future+Tech+Explorer" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajax0611&label=Profile%20views&color=0e75b6&style=flat" />
+<h1 align="center">👋 Hey, I'm Ajay</h1><h3 align="center">🤖 AI Systems Architect | 🚀 Agentic AI Explorer | 🧠 Digital Builder</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Designing+AI+Agents;Automating+the+Future;Welcome+to+My+Digital+World" />
 </p>---
 
-🧠 About Me
+🧑‍🚀 My AI Persona
 
-- 🔭 Building AI-native platforms
-- 🤖 Exploring Agentic AI + Automation Systems
-- ⚡ Passionate about Futuristic UI & Intelligent Systems
-- 🧩 Currently working on: Campus Companion
+«⚡ Codename: AX-01
+🤖 Role: AI Systems Architect
+🌌 Mission: Build intelligent systems that think, act, and evolve
+🧠 Core Ability: Turning ideas into autonomous AI»
 
 ---
 
-🚀 Tech Stack
+🎮 Character Stats
+
+AI Power        ██████████ 95%
+Automation      █████████░ 90%
+System Design   █████████░ 88%
+Creativity      ██████████ 92%
+Debugging       ████████░░ 85%
+
+---
+
+🧠 About Me
+
+- 🤖 Building Agentic AI Systems
+- ⚙️ Creating automation that thinks
+- 🚀 Exploring future tech + intelligent UI
+- 🧩 Cookin Special!!
+
+---
+
+🧰 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,nodejs,react,postgres,docker,git,github" />
 </p>---
 
-🧠 AI Stack
+🧠 AI Core Systems
 
-- LLM Systems
-- LangChain / Agentic AI
-- Playwright Automation
-- RAG Systems
+- 🧩 LLM Architectures
+- 🔗 LangChain / Agents
+- 🌐 Playwright Automation
+- 🧠 RAG Systems
 
 ---
 
-🔥 Featured Project
+🔥 Featured Mission
 
 🧠 Campus Companion
 
-«AI-native student growth platform»
+«AI-powered student evolution system»
 
-✨ Features:
-
-- 📄 AI Resume Analyzer
-- 🧭 Personalized Skill Roadmaps
-- 📚 AI Study Tools (Summarizer, Flashcards)
-- 🎯 Interview Coaching
+- 📄 Resume Analyzer
+- 🧭 Skill Roadmaps
+- 📚 Smart Study Tools
+- 🎯 Interview AI
 
 ---
 
-📊 GitHub Stats
+📊 System Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajax0611&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajax0611&theme=tokyonight" />
 </p>---
 
-📈 Activity Graph
+📈 Activity Matrix
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajax0611&theme=tokyo-night" />
 </p>---
 
-🧠 Currently Learning
+🧠 Current Upgrades
 
-- Agentic AI Systems
-- Multi-Agent Architectures
-- AI Infrastructure (DGX, Scaling)
-
----
-
-🎯 2026 Goals
-
-- 🚀 Build a Compyrelax-level AI automation platform
-- 🧠 Master AI Agents & System Design
-- 💼 Launch an AI startup
+- 🔥 Multi-Agent Systems
+- ⚡ AI Infrastructure (DGX Level)
+- 🧠 Autonomous Decision Systems
 
 ---
 
-🌐 Connect With Me
+🎯 Future Missions
 
-- 💼 LinkedIn: (Add your link here)
-- 🌍 Portfolio: Coming Soon 🚀
+- 🚀 Build next-gen automation platform
+- 🤖 Master Agentic AI
+- 💡 Launch AI startup
 
 ---
 
-⚡ Fun Fact
+🌐 Connect
 
-«I don’t just use AI — I build systems that think.»
+- 💼 LinkedIn: (add link)
+- 🌍 Portfolio: Coming soon
+
+---
+
+⚡ Final Signal
+
+«"I don’t build apps. I build intelligence."»
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Ajay</b> — Building the Future with AI 🚀
+🧠 Powered by AI | 🚀 Driven by Curiosity | ⚡ Built for the Future
 </p>
