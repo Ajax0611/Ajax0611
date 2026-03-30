@@ -87,10 +87,16 @@ Debugging       ████████░░ 85%
 
 ---
 
-🌐 Connect
+🌐 Connect With Me
 
-- 💼 LinkedIn: (add link)
-- 🌍 Portfolio: Coming soon
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajay-gopalakrishnan-398925324">
+    <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Gopalakrishnan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://ajaypg.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ajaypg.dev-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
